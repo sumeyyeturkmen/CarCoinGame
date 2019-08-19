@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\CarCoins\CarCoins\bin\Debug\CarCoins.exe.config
+C:\Users\HP\source\repos\CarCoins\CarCoins\bin\Debug\CarCoins.exe
+C:\Users\HP\source\repos\CarCoins\CarCoins\bin\Debug\CarCoins.pdb
+C:\Users\HP\source\repos\CarCoins\CarCoins\obj\Debug\CarCoins.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CarCoins\CarCoins\obj\Debug\CarCoins.Form1.resources
+C:\Users\HP\source\repos\CarCoins\CarCoins\obj\Debug\CarCoins.Properties.Resources.resources
+C:\Users\HP\source\repos\CarCoins\CarCoins\obj\Debug\CarCoins.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\CarCoins\CarCoins\obj\Debug\CarCoins.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CarCoins\CarCoins\obj\Debug\CarCoins.exe
+C:\Users\HP\source\repos\CarCoins\CarCoins\obj\Debug\CarCoins.pdb
